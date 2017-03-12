@@ -527,7 +527,7 @@ local telediamond7 = [[
 🎗》#modhelp
 
 Join us:
-✔️  @antispamandhack
+✔️  @anti_spam_nice
 ]]
     if matches[1] == 'راهنمای مدیریتی' and is_momod(msg) then
         return telediamond  
